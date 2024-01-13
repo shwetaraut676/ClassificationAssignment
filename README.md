@@ -35,4 +35,5 @@ Few-shot learning in Machine Learning refers to a learning where the model is tr
 ## app.py file for deployment
 I created an app.py file in spyder to deploy my model locally using fastapi.
 
-##
+## Deploying the app through Render.com
+I used the app.py and requirements.txt files to deploy the model on Render.com which is a free server to deploy apps.
