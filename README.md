@@ -25,7 +25,7 @@ Used the tokenizer to process textual data and prepare it for model training.
 Utilized logistic regression for the multi-class classification task.
 
 -Model Deployment:
-Incorporated Pickle for serialization, enabling deployment on FastAPI or other platforms.
+Incorporated Pickle (classifier.pkl) for serialization, enabling deployment on FastAPI or other platforms.
 
 -Included an example to showcase the functionality and effectiveness of the code.
 
