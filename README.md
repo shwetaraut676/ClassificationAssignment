@@ -29,7 +29,7 @@ Incorporated Pickle (classifier.pkl) for serialization, enabling deployment on F
 
 -Included an example to showcase the functionality and effectiveness of the code.
 
-## Few Shot Learning
+## Classification Assignment with Few Shot Learning
 Few-shot learning in Machine Learning refers to a learning where the model is trained to make accurate predictions with only a small number of examples per class. As opposed to Zero shot and Once shot learning. This is done so that it can generalize to unseen or new data for prediction using just a few examples.
 
 ## app.py file for deployment
